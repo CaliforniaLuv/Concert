@@ -17,8 +17,13 @@
 This program was created as an individual assignment project through the 2018 C++ Programming Class 🖥 in the second year of college. 👨‍💻 👩‍💻
 
 This program scenario {
+
 Finally, the @@@ idol concert that fans were looking forward to was scheduled.🎊 🎉
+
 The concert will be held for 3 days, and the concert will be divided into standing and reserved seats.
+
 Soon the server will burst, so there will be a ticketing war. 😱 😨
+
 There you, too, participate in the battlefield and participate in the glory of meeting @@@ idols!!! ⚔ 💥 🛡
+
 }
