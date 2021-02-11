@@ -5,19 +5,19 @@ using namespace std;
 
 void main() {
 
-    cout << " 안녕하십니까                                                  #                       #" << endl;
-    cout << " SMtown에서 주관하는                                           #                       #" << endl;
-    cout << " 레드벨벳 콘서트에 팬 여러분들을 환영합니다~                   #         STAGE         #" << endl;
-    cout << " 위 공연은 11월 23일부터 11월 25일까지                         #        |     |        #" << endl;
-    cout << " 진행되어있으며 좌석은 옆 배치도를 참고하시면 됩니다.          #        |     |        #" << endl;
-    cout << " A,B,C 스탠딩석 가격은 150,000원이며                           #        |     |        #" << endl;
-    cout << " D1~D6 지정석의 가격은 100.000원입니다.                        #        |_____|        #" << endl;
-    cout << "                                                               #          A B          #" << endl;
-    cout << "                                                               #           C           #" << endl;
-    cout << "                                                               #                       #" << endl;
-    cout << "                                                               #   D1 D2 D3 D4 D5 D6   #" << endl;
-    cout << "                                                               #                       #" << endl;
-    cout << "                                                               #---------------------- #" << endl;
+    cout << " 안녕하십니까                                                     #                       #" << endl;
+    cout << " SMtown에서 주관하는                                              #                       #" << endl;
+    cout << " 레드벨벳 콘서트에 팬 여러분들을 환영합니다~                             #         STAGE         #" << endl;
+    cout << " 위 공연은 11월 23일부터 11월 25일까지                               #        |     |        #" << endl;
+    cout << " 진행되어있으며 좌석은 옆 배치도를 참고하시면 됩니다.                      #        |     |        #" << endl;
+    cout << " A,B,C 스탠딩석 가격은 150,000원이며                                #        |     |        #" << endl;
+    cout << " D1~D6 지정석의 가격은 100.000원입니다.                             #        |_____|        #" << endl;
+    cout << "                                                              #          A B          #" << endl;
+    cout << "                                                              #           C           #" << endl;
+    cout << "                                                              #                       #" << endl;
+    cout << "                                                              #   D1 D2 D3 D4 D5 D6   #" << endl;
+    cout << "                                                              #                       #" << endl;
+    cout << "                                                              #---------------------- #" << endl;
     cout << endl;
     cout << endl;
 
